@@ -1,0 +1,4 @@
+[{<<"orbis">>,
+  {git,"https://github.com/ahf/orbis.git",
+       {ref,"cce8897f1bec12a1b09e62e328c9d06ec4074879"}},
+  0}].
